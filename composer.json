@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "paymob\\payment\\package": "src/"
+            "paymob\\payment\\package\\": "src/"
         }
     }
 }
