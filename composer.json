@@ -7,8 +7,7 @@
         {
             "name": "Babar Ali"
         }
-    ],
-    "version": "1.0.0",
+    ],    
     "type": "library",
     "license": [
         "GPL-3.0-only"
@@ -18,7 +17,7 @@
     },
     "autoload": {        
         "psr-4": {
-            "Payment\\Package\\": "src/"
+            "PaymentPackage\\\\": "src/"
         }
     },
     "prefer-stable": true
