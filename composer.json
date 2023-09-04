@@ -2,6 +2,12 @@
     "name": "babar/payment-package",
     "description": "Paymob Payment Gateway",
     "type": "library",
+    "authors": [
+        {
+            "name": "Babar Ali"
+        }
+    ],
+    "version": "1.0.0",
     "keywords": ["laravel", "payment", "package"],
     "license": "MIT",
     "require": {
@@ -10,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Payment\\Package\\": "src/"
+            "paymob\\payment\\package": "src/"
         }
     }
 }
