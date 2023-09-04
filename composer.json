@@ -1,5 +1,5 @@
 {
-    "name": "paymob/payment-package",
+    "name": "babar/payment-package",
     "description": "Paymob Payment Gateway",
     "type": "library",
     "keywords": ["laravel", "payment", "package"],
