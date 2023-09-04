@@ -1,0 +1,16 @@
+{
+    "name": "paymob/payment-package",
+    "description": "Paymob Payment Gateway",
+    "type": "library",
+    "keywords": ["laravel", "payment", "package"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.3",
+        "illuminate/support": "^10.0 || ^9.0 || ^8.0 || ^7.0 || ^6.0 || ^5.0"         
+    },
+    "autoload": {
+        "psr-4": {
+            "PaymentPackage": "src/"
+        }
+    }
+}
